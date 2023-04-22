@@ -22,5 +22,5 @@ description	- описание вакансии
 skills - требования   
 job_type - тип занятости (офис/гибрид/удаленка)
 
-## **Библиотеки:**
+## **Библиотеки**
 *selenium, webdriver_manager, time, pandas, tqdm, datetime*
